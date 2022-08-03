@@ -4,7 +4,7 @@
   "author": "Pedrojok01",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
-    "@walletconnect/web3-provider": "^1.7.8",
+    "@walletconnect/web3-provider": "^1.8.0",
     "antd": "^4.20.2",
     "moralis": "^1.7.0",
     "react": "^17.0.2",
